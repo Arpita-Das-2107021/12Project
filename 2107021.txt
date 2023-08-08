@@ -1,0 +1,82 @@
+
+             *****   Pet Shop   *****
+                     Welcome
+
+Are you an
+1.Employee
+or a
+2.Customer?
+2
+What do you want to do?
+1.Look for pets
+2.Order pets
+1
+Select an option:
+1.Cats
+2.Dogs
+3.Rabbits
+1
+Name:cat1
+Code:11
+Price:500
+Pet status: Available.
+
+Name:cat2
+Code:12
+Price:500
+Pet status: Available.
+
+1.Return to main menu
+2.Exit
+1
+
+Are you an
+1.Employee
+or a
+2.Customer?
+2
+What do you want to do?
+1.Look for pets
+2.Order pets
+2
+Select an option:
+1.Cats
+2.Dogs
+3.Rabbits
+1
+Enter pet code:
+11
+Found pet.
+Enter name: Arpita Das
+Enter address: Rokeya Hall,KUET.
+Enter phone: 01833065509
+
+It will be delievered soon.
+
+******************
+
+Customer bill:
+Pet name: cat1
+Pet price: 500
+Customer name: Arpita Das
+Address: Rokeya Hall,KUET.
+Phone: 1833065509
+
+The pet has been delievered.
+1.Return to main menu
+2.Exit
+1
+
+Are you an
+1.Employee
+or a
+2.Customer?
+1
+Enter employee code to check revenue.
+59321
+Revenue: 500
+Revenue check was successful.
+1.Return to main menu
+2.Exit
+2
+Successful exit.
